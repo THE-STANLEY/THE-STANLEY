@@ -14,6 +14,7 @@
 ✔️ **Back-end skills**: 
 - Node.js
 - MySql / SqLite
+- PHP
 
 ✔️ **Contacts**: 
 - telegram: @systemflex
