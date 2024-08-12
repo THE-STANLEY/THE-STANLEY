@@ -1,4 +1,4 @@
-[![Header](https://github.com/THE-STANLEY/THE-STANLEY/blob/main/assets/github.png)](https://github.com/THE-STANLEY)
+[![Header](https://github.com/THE-STANLEY/THE-STANLEY/blob/master/assets/github.png)](https://github.com/THE-STANLEY)
 
 ## Frontend Engineer
 
