@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">🌴 Frontend Engineer | Flutter Mobile Developer | Proffesional Cyber Security. </h2>
+<h1 align="center">🌴 Flutter Developer </h1>
 
 ###
 
