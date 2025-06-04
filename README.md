@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MarieUS5FT">
-    <img alt="MarieUS5FT's avatar" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Ftux-linux-logo-start-button-icon-linux-11562927335gdm2cpaczy.png&f=1&nofb=1&ipt=d3a546e062a120d71f56c2fe64fa0e31247d1acbec7fa81086635c1b82188c2b" width="240px">
+    <img alt="MarieUS5FT's avatar" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F555%2F1021%2Fpng-clipart-penguin-linux-tux-computer-software-svg-gallery-computer-vertebrate.png&f=1&nofb=1&ipt=bbf05ef8efa5c66dd68739ac1ed706b6b7d5d9aff8ace284d7cba47cc3b997da width="240px">
   </a>
 </p>
 
